@@ -291,6 +291,15 @@ MAIN_LOOP:
     JMP MAIN_LOOP
 
 EXIT_PROGRAM:
+    CALL CLEAR_SCREEN
+
+    ; Move the cursor to the top left corner
+    MOV AH, 02H
+    MOV BH, 0
+    MOV DH, 0
+    MOV DL, 0
+    INT 10H
+
     MOV AH, 4ch
     INT 21h
 MAIN ENDP
