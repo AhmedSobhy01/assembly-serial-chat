@@ -47,7 +47,7 @@ keyboardlayout=auto
 [ipx]
 ipx=false
 [autoexec]
-mount C C:\8086
+mount C --path--\assembler
 set PATH=%PATH%;C:
 MOUNT D --path--
 D:

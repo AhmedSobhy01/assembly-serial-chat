@@ -1,6 +1,6 @@
-*.EXE
-*.OBJ
-*.bat
-*.conf
-.vscode
-.venv
+/*.EXE
+/*.OBJ
+/*.bat
+/*.conf
+/.vscode
+/.venv
