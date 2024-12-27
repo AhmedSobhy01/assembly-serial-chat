@@ -26,8 +26,8 @@ To run this program, you'll need the following:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/8086-Serial-Chat.git
-    cd 8086-Serial-Chat
+    git clone https://github.com/AhmedSobhy01/assembly-serial-chat.git
+    cd assembly-serial-chat
     ```
 
 2. **Set Up DOSBox-X**:
